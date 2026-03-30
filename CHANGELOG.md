@@ -1,5 +1,13 @@
 # Changelog
 
+## 5.19.0-beta.5 (2026-03-30)
+
+Full Changelog: [v5.19.0-beta.4...v5.19.0-beta.5](https://github.com/cloudflare/terraform-provider-cloudflare/compare/v5.19.0-beta.4...v5.19.0-beta.5)
+
+### Bug Fixes
+
+* **zero_trust_access_policy:** set PriorSchema nil for v4 state upgrade (TKT-007) ([4d64732](https://github.com/cloudflare/terraform-provider-cloudflare/commit/4d647326a2a8608112d201d7d82ba8acd5dfdf46))
+
 ## 5.19.0-beta.4 (2026-03-30)
 
 Full Changelog: [v5.19.0-beta.3...v5.19.0-beta.4](https://github.com/cloudflare/terraform-provider-cloudflare/compare/v5.19.0-beta.3...v5.19.0-beta.4)
